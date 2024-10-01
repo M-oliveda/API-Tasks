@@ -16,3 +16,6 @@ build/
 
 # Macos
 .DS_Store
+
+# Enviroment Variables
+.env
