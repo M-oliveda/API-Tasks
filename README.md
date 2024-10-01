@@ -20,6 +20,8 @@ This API allows users to manage their tasks. It has endpoints for _adding_, _upd
 
 ## Build/CLI Instructions
 
+Before installing and running the application, you should create a Python virtual environment. The official documentation can provide help if you need it.
+
 ## Configuration and Environment Variables
 
 This project uses different **environment variables** to configure the application functionality. The following list shows each variable along its definition.
